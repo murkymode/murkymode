@@ -1,8 +1,8 @@
 ## 🙋‍♂️  Hello and welcome to my profile!  🙌
 
-[<img align="center" alt"tassiaaccioly | Linkedin" width="22px" src="./linkedin.svg" />][linkedin]
+<!-- [<img align="center" alt"tassiaaccioly | Linkedin" width="22px" src="./linkedin.svg" />][linkedin] -->
 
-[linkedin]: https://www.linkedin.com/in/jason-marble/
+<!-- [linkedin]: https://www.linkedin.com/in/jason-marble/ -->
 <!--
 **murkymode/murkymode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
