@@ -1,8 +1,6 @@
 ## 🙋‍♂️  Hello and welcome to my profile!  🙌
+![murkymode's GitHub stats](https://github-readme-stats.vercel.app/api?username=murkymode&theme=synthwave&show_icons=true&count_private=true “My GutHub Stats”)
 
-<!-- [<img align="center" alt"tassiaaccioly | Linkedin" width="22px" src="./linkedin.svg" />][linkedin] -->
-
-<!-- [linkedin]: https://www.linkedin.com/in/jason-marble/ -->
 <!--
 **murkymode/murkymode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
