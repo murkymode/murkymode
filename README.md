@@ -1,5 +1,6 @@
 ## 🙋‍♂️  Hello and welcome to my profile!  🙌
 
+[linkedin]: https://www.linkedin.com/in/jason-marble/
 <!--
 **murkymode/murkymode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
