@@ -1,4 +1,7 @@
-## 🙋‍♂  Hello and welcome to my profile!  🙌
+## 🙌   Hello and welcome to my profile!   🙌 
+
+Full-Stack Engineer: Javascript | React | Node | Express | Postgres
+
 - 💻 I’m currently working on graduating from Hack Reactor
 
 <!--
