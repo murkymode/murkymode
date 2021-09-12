@@ -1,6 +1,6 @@
 ## Hello and welcome to my profile!
 
-Full-Stack Engineer: Javascript | React | Node | Express | Postgres
+Full-Stack Engineer: Javascript | React | Node | Express | Postgres | Mongo
 
 - 👨‍💻 I recently graduated from Hack Reactor
 - 💻 I’m currently working on strengthening my MERN stack skills
