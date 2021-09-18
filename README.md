@@ -4,6 +4,8 @@ Full-Stack Engineer: Javascript | React | Node | Express | Postgres | Mongo
 
 - 👨‍💻 I recently graduated from Hack Reactor
 - 💻 I’m currently working on strengthening my MERN stack skills
+- 🌳 I'm looking forward to continued growth as a software engineer
+- 🧗 I enjoy climbing of all varieties
 
 <!--
 **murkymode/murkymode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
