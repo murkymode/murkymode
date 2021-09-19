@@ -1,4 +1,4 @@
-## Hello and welcome to my profile!
+## Hello 👋 Welcome to My Profile!
 
 Full-Stack Engineer: Javascript | React | Node | Express | Postgres | Mongo
 
