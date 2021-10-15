@@ -1,7 +1,7 @@
 ## Hello 👋 Welcome to My Profile!
 
 ### Full-Stack Engineer :
-- 👨‍💻 I recently graduated from Hack Reactor
+- 👨‍💻 I attended Hack Reactor and graduated the Software Engineering Immersive program
 - 💻 I’m currently working on a freelance contract for a small website build
 - 🌳 I'm looking forward to continued growth as a software engineer
 - 🧗 I enjoy climbing of all varieties
