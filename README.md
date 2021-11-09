@@ -1,8 +1,10 @@
 ## Hello 👋 Welcome to My Profile!
 
 ### Full-Stack Engineer :
+
+- 👔 I am open to work
 - 👨‍💻 I went to Hack Reactor and completed the Software Engineering Immersive course
-- 💻 I’m currently working on a freelance contract for a small website build
+- 💻 I’m working on a freelance contract for a small website build
 - 🌳 I'm looking forward to continued growth as a software engineer
 - 🧗 I enjoy climbing of all varieties
 
