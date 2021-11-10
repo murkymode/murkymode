@@ -2,11 +2,11 @@
 
 ### Full-Stack Engineer :
 
-- 👔 I am open to work
-- 👨‍💻 I went to Hack Reactor and completed the Software Engineering Immersive course
-- 💻 I’m working on a freelance contract for a small website build
-- 🌳 I'm looking forward to continued growth as a software engineer
-- 🧗 I enjoy climbing of all varieties
+-  👔 - I am open to work
+-  👨‍💻 - I went to Hack Reactor and completed the Software Engineering Immersive course
+-  💻 - I’m working on a freelance contract for a small website build
+-  🌳 - I'm looking forward to continued growth as a software engineer
+-  🧗 - I enjoy climbing of all varieties
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
