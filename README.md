@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Greetings!</h1>
+<h1 align="center">Greetings!</h1>
 
 ### I'm available for software development roles!
 
@@ -39,7 +39,6 @@ I am looking forward to working with a team that supports each other’s goals a
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 #
-
 <!--
 **murkymode/murkymode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
