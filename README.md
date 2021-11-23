@@ -41,6 +41,4 @@ I am looking forward to working with a team that supports each other’s goals a
 #
 <!--
 **murkymode/murkymode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Outline for future changes:
 -->
