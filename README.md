@@ -1,4 +1,4 @@
-<!-- ![err](https://drive.google.com/uc?export=view&id=1V7gKaouoB6dgMsxJIHGR4BJ4KsEgEpZAn) -->
+![err](./assets/header.png)
 
 ### First off – I'm available for software development roles!
 
