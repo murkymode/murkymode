@@ -1,4 +1,4 @@
-<!-- ![err](./assets/header.png) -->
+![err](./assets/header.png)
 
 ### First off – I'm available for software development roles!
 
@@ -10,6 +10,9 @@ I am looking forward to working with a team that supports each other’s goals a
 ## Contact
 #### Email: jasonmarble@gmail.com
 #### LinkedIn: <a href="https://www.linkedin.com/in/jason-marble/">Jason Marble</a>
+#
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=murkymode&show_icons=true&theme=algolia)
 
 ## Preferred Tech
 #### Languages
