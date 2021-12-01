@@ -1,4 +1,4 @@
-![err](./assets/header.png)
+<!-- ![err](./assets/header.png) -->
 
 ### First off – I'm available for software development roles!
 
