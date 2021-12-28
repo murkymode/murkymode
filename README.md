@@ -1,6 +1,6 @@
 ![err](./assets/header.png)
 
-### First off – I'm available for software development roles!
+### First off – I'm available for software or web development roles!
 
 ## About Me
 As an ever-curious individual, I have found software engineering to be the ideal place to flourish. Each build provides an opportunity to positively collaborate with others while challenging myself to do better with each iteration.
