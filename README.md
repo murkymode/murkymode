@@ -41,6 +41,8 @@ I am looking forward to working with a team that supports each other’s goals a
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<!-- ![err](./assets/cubes.gif) -->
 #
 <!--
 **murkymode/murkymode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
