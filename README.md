@@ -13,9 +13,7 @@ I am looking forward to working with a team that supports each other’s goals a
 #
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=murkymode&show_icons=true&theme=algolia)
-<span class="cubes">
-  <img src="./assets/cubes.gif" width=200 height=200 />
-</span>
+<!-- <img src="./assets/cubes.gif" width=200 height=200 /> -->
 
 ## Preferred Tech
 #### Languages
