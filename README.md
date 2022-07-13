@@ -1,7 +1,5 @@
 ![err](./assets/header.png)
 
-## Hello there!
-
 ## About Me
 As an ever-curious individual, I have found software engineering to be the ideal place to flourish. Each build provides an opportunity to positively collaborate with others while challenging myself to do better with each iteration.
 
