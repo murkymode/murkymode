@@ -6,9 +6,9 @@ As an ever-curious individual I have found software engineering to be the ideal 
 ## Contact
 #### Email: jasonmarble@gmail.com
 #### LinkedIn: <a href="https://www.linkedin.com/in/jason-marble/">Jason Marble</a>
-#
+<!-- # -->
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=murkymode&show_icons=true&theme=algolia)
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=murkymode&show_icons=true&theme=algolia) -->
 <!-- <img src="./assets/cubes.gif" width=200 height=200 /> -->
 
 ## Preferred Tech
