@@ -22,9 +22,8 @@ As an ever-curious individual, I have found software engineering to be the ideal
 #### Core Technologies
 <div>
   <img src="./assets/badges/powerapps.svg" width=55rem height=55rem />
-  <img src="./assets/badges/powerpages.svg" width=55rem height=55rem />
   <img src="./assets/badges/powershell.svg" width=55rem height=55rem />
-  <img src="./assets/badges/microsoftazure.svg" width=55rem height=55rem />
+  <img src="./assets/badges/microsoftazure.svg" width=55rem height=55rem /> 
 </div>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
