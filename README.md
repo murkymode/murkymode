@@ -1,7 +1,7 @@
 ![err](./assets/header.png)
 
 ## About Me
-As an ever-curious individual, I have found software engineering to be the ideal place to flourish. Each build provides an opportunity to positively collaborate with others while challenging myself to do better with each iteration.
+As an ever-curious individual, I have found software engineering to be the ideal place to thirve. Each build provides an opportunity to positively collaborate with others while challenging myself to do better with each iteration.
 
 ## Contact
 #### Email: jasonmarble@gmail.com
@@ -9,7 +9,6 @@ As an ever-curious individual, I have found software engineering to be the ideal
 <!-- # -->
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=murkymode&show_icons=true&theme=algolia) -->
-<!-- <img src="./assets/cubes.gif" width=200 height=200 /> -->
 
 ## Preferred Tech
 
